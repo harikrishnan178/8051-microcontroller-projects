@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\EI.obj" 
+TO ".\Objects\EI" 
+PRINT(".\Listings\EI.m51")
